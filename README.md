@@ -4,6 +4,7 @@
 - Login form
 - Wallpaper Viewer
 - Calculator
+- News Application (Inshorts-clone)
 
 GUI is made using tkinter module.
 
